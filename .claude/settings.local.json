@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/gjgut/AIforleaders2/Module-B-semester-2/**)",
+      "Bash(jq -r \".cells[0:3] | .[] | select\\(.cell_type==\"\"markdown\"\"\\) | .source | join\\(\"\"\"\"\\)\")",
+      "Bash(done)",
+      "Bash(python3:*)",
+      "Bash(python -c ':*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\gjgut\\AIforleaders2\\Module-B-semester-2"
+    ]
+  }
+}
