@@ -10,7 +10,8 @@
       "Bash(python -c ':*)"
     ],
     "additionalDirectories": [
-      "c:\\Users\\gjgut\\AIforleaders2\\Module-B-semester-2"
+      "c:\\Users\\gjgut\\AIforleaders2\\Module-B-semester-2",
+      "c:\\Users\\gjgut\\AIforleaders2\\Module-B-semester-2\\.claude\\worktrees\\distracted-curie"
     ]
   }
 }
